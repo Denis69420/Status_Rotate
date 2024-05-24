@@ -18,7 +18,7 @@
 Clone this repository:
 
 ```bash
-git clone 
+git clone https://github.com/Denis69420/Status_Rotate.git
 ```
 
 You can install the necessary packages by running the following command:
