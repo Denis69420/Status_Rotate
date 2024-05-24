@@ -1,0 +1,7 @@
+{
+  "token": "",
+  "status_sequence": ["dnd", "dnd", "dnd"],
+  "clear_enabled": false,
+  "clear_interval": 15,
+  "speed_rotator": 10
+}

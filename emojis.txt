@@ -1,0 +1,5 @@
+emoji_1:dna
+emoji_2:lion_face
+
+
+
