@@ -58,18 +58,6 @@ Format without nitro (only the emoji): `😀`
 
 ---------------------------------------
 
-### 📃 Changelogs
-
-```
-(06/04/24)
-↗️ - You can now rotate the status (🟢online, ⛔dnd, 🟠idle, 🌑offline). | [Feature]
-(01/04/24)
-✅ - Fixed encoding (UTF-8). | [Error]
-(12/03/24)
-↗️ - Now you can rotate emojis (including nitro emojis). | [Feature]
-```
-
----------------------------------------
 
 ### 🤝 Contribution
 If you find any bugs or have any suggestions for improvement, feel free to open an issue or submit a pull request!
